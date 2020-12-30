@@ -1,2 +1,1 @@
-# Developer-portfolio
-Design the task
+# Developer for us 
